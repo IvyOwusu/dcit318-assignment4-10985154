@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivyow\\source\\repos\\DrawingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB26198-DDC5-41AC-94A8-CEF7DCE13E3D}|DrawingApp\\DrawingApp.csproj|c:\\users\\ivyow\\source\\repos\\drawingapp\\drawingapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB26198-DDC5-41AC-94A8-CEF7DCE13E3D}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB26198-DDC5-41AC-94A8-CEF7DCE13E3D}|DrawingApp\\DrawingApp.csproj|c:\\users\\ivyow\\source\\repos\\drawingapp\\drawingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BB26198-DDC5-41AC-94A8-CEF7DCE13E3D}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BB26198-DDC5-41AC-94A8-CEF7DCE13E3D}|DrawingApp\\DrawingApp.csproj|c:\\users\\ivyow\\source\\repos\\drawingapp\\drawingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5BB26198-DDC5-41AC-94A8-CEF7DCE13E3D}|DrawingApp\\DrawingApp.csproj|solutionrelative:drawingapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ivyow\\source\\repos\\DrawingApp\\DrawingApp\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ivyow\\source\\repos\\DrawingApp\\DrawingApp\\Form1.Designer.cs",
+              "RelativeToolTip": "DrawingApp\\Form1.Designer.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:18:20.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ivyow\\source\\repos\\DrawingApp\\DrawingApp\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivyow\\source\\repos\\DrawingApp\\DrawingApp\\Form1.cs",
+              "RelativeToolTip": "DrawingApp\\Form1.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAA8wCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:18:10.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ivyow\\source\\repos\\DrawingApp\\DrawingApp\\Form1.cs",
+              "RelativeDocumentMoniker": "DrawingApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\ivyow\\source\\repos\\DrawingApp\\DrawingApp\\Form1.cs [Design]",
+              "RelativeToolTip": "DrawingApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:15:56.84Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
