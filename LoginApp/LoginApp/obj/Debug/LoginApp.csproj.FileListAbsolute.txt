@@ -1,0 +1,10 @@
+C:\Users\ivyow\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.AssemblyReference.cache
+C:\Users\ivyow\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.Form1.resources
+C:\Users\ivyow\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.Properties.Resources.resources
+C:\Users\ivyow\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\ivyow\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\ivyow\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.exe.config
+C:\Users\ivyow\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\ivyow\source\repos\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\ivyow\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.exe
+C:\Users\ivyow\source\repos\LoginApp\LoginApp\obj\Debug\LoginApp.pdb
